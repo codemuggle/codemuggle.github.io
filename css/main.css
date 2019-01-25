@@ -1951,7 +1951,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c7ffc9;
+  background: #fffff4;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3335,4 +3335,21 @@ code.description {
   .menu .menu-item {
     margin: 0px 10px !important;
   }
+}
+img.img-topic {
+  width: 100%;
+}
+.out-img-topic {
+  display: block;
+  max-height: 300px;
+  margin-bottom: 24px;
+  overflow: hidden;
+}
+img.img-topic {
+  display: block;
+  margin-left: 0.7em;
+  margin-right: 0.7em;
+  padding: 0;
+  float: right;
+  clear: right;
 }
